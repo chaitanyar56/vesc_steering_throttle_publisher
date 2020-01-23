@@ -1,1 +1,1 @@
-### VESC Publihser to test mitracecar vec_driver
+### VESC python Publisher to test mitracecar vesc_driver
